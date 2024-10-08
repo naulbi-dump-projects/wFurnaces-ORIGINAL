@@ -1,0 +1,8 @@
+# Leaked by https://t.me/leak_mine
+# Сурцы плагина были слиты телеграмм каналом https://t.me/leak_mine
+name: wFurnace
+author: WinLocker
+version: 1.0
+main: ru.winlocker.wfurnace.Main
+commands:
+    wfurnace:
